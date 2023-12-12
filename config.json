@@ -1,0 +1,22 @@
+{
+  "params" :
+  {
+   "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codingthunder",
+    "prod_uri" : "mysql://root:@localhost/codingthunder",
+    "fb_url" : "https://facebook.com/codingthunder",
+    "tw_url" : "https://twitter.com/codingthunder",
+    "gh_url" : "https://github.com/codingthunder",
+    "blog_name" : "Community Blogger",
+    "gmail-user": "houseofstark786@gmail.com",
+    "gmail-password": "qviejbcxujsksrwt",
+    "about_text" : "This gives a complete description about the content posted on the website along with their domain,along with their schedule as well",
+    "no_of_posts" : "2",
+    "login_image" : "bootstrap-logo.svg",
+    "admin_user" : "houseofstark786@gmail.com",
+    "admin_password" : "adminpass",
+   "upload_location" : "C:\\Users\\User\\PycharmProjects\\Flask\\static"
+
+  }
+
+}
